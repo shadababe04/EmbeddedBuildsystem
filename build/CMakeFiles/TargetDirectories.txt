@@ -1,0 +1,4 @@
+D:/C_C++/EmbeddedBuildsystem/build/CMakeFiles/operations.dir
+D:/C_C++/EmbeddedBuildsystem/build/CMakeFiles/EMBEDDEDBUILDSYSTEM.dir
+D:/C_C++/EmbeddedBuildsystem/build/CMakeFiles/edit_cache.dir
+D:/C_C++/EmbeddedBuildsystem/build/CMakeFiles/rebuild_cache.dir
