@@ -1,0 +1,15 @@
+# ninja log v6
+3	139	7467518001692921	CMakeFiles/operations.dir/src/add.cpp.obj	bfdeab3ce770c457
+13	159	7467518001848715	CMakeFiles/operations.dir/src/mul.cpp.obj	d1b94a4ba0e94c2d
+8	149	7467518001848715	CMakeFiles/operations.dir/src/sub.cpp.obj	309a3526e6403dfd
+17	425	7467518001848715	CMakeFiles/operations.dir/src/div.cpp.obj	6b5a9210dc755a1
+427	566	7467518005911324	liboperations.a	e253b43c6f28d8b6
+22	548	7467518001848715	CMakeFiles/EMBEDDEDBUILDSYSTEM.dir/src/main.cpp.obj	3149a0f32ed4fba
+566	710	7467518007317461	EMBEDDEDBUILDSYSTEM.exe	dceb216154ad9191
+29	170	7467523976953212	CMakeFiles/operations.dir/src/sub.cpp.obj	309a3526e6403dfd
+33	173	7467523976953212	CMakeFiles/operations.dir/src/mul.cpp.obj	d1b94a4ba0e94c2d
+21	178	7467523976797385	CMakeFiles/operations.dir/src/add.cpp.obj	bfdeab3ce770c457
+39	433	7467523976953212	CMakeFiles/operations.dir/src/div.cpp.obj	6b5a9210dc755a1
+47	545	7467523977109677	CMakeFiles/EMBEDDEDBUILDSYSTEM.dir/src/main.cpp.obj	3149a0f32ed4fba
+433	567	7467523980897822	liboperations.a	e253b43c6f28d8b6
+567	712	7467523982353562	EMBEDDEDBUILDSYSTEM.exe	dceb216154ad9191
