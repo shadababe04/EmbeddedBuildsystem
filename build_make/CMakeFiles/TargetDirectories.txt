@@ -1,0 +1,4 @@
+D:/C_C++/EmbeddedBuildsystem/build_make/CMakeFiles/operations.dir
+D:/C_C++/EmbeddedBuildsystem/build_make/CMakeFiles/EMBEDDEDBUILDSYSTEM.dir
+D:/C_C++/EmbeddedBuildsystem/build_make/CMakeFiles/ALL_BUILD.dir
+D:/C_C++/EmbeddedBuildsystem/build_make/CMakeFiles/ZERO_CHECK.dir
