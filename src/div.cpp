@@ -7,5 +7,4 @@ double div(double a, double b){
     }else{
         throw std::runtime_error("Division by zero");
     }
-
 }

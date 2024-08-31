@@ -1,0 +1,10 @@
+^D:\C_C++\EMBEDDEDBUILDSYSTEM\BUILD_MAKE\CMAKEFILES\CA872303E638E6A25627962FE87CD27A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/C_C++/EmbeddedBuildsystem -BD:/C_C++/EmbeddedBuildsystem/build_make --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/C_C++/EmbeddedBuildsystem/build_make/EMBEDDEDBUILDSYSTEM.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

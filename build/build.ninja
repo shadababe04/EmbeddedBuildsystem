@@ -46,7 +46,7 @@ build cmake_object_order_depends_target_operations: phony || .
 
 build CMakeFiles/operations.dir/src/add.cpp.obj: CXX_COMPILER__operations_unscanned_ D$:/C_C++/EmbeddedBuildsystem/src/add.cpp || cmake_object_order_depends_target_operations
   DEP_FILE = CMakeFiles\operations.dir\src\add.cpp.obj.d
-  FLAGS = -std=gnu++17
+  FLAGS = -std=gnu++1z
   INCLUDES = -ID:/C_C++/EmbeddedBuildsystem/inc
   OBJECT_DIR = CMakeFiles\operations.dir
   OBJECT_FILE_DIR = CMakeFiles\operations.dir\src
@@ -55,7 +55,7 @@ build CMakeFiles/operations.dir/src/add.cpp.obj: CXX_COMPILER__operations_unscan
 
 build CMakeFiles/operations.dir/src/sub.cpp.obj: CXX_COMPILER__operations_unscanned_ D$:/C_C++/EmbeddedBuildsystem/src/sub.cpp || cmake_object_order_depends_target_operations
   DEP_FILE = CMakeFiles\operations.dir\src\sub.cpp.obj.d
-  FLAGS = -std=gnu++17
+  FLAGS = -std=gnu++1z
   INCLUDES = -ID:/C_C++/EmbeddedBuildsystem/inc
   OBJECT_DIR = CMakeFiles\operations.dir
   OBJECT_FILE_DIR = CMakeFiles\operations.dir\src
@@ -64,7 +64,7 @@ build CMakeFiles/operations.dir/src/sub.cpp.obj: CXX_COMPILER__operations_unscan
 
 build CMakeFiles/operations.dir/src/mul.cpp.obj: CXX_COMPILER__operations_unscanned_ D$:/C_C++/EmbeddedBuildsystem/src/mul.cpp || cmake_object_order_depends_target_operations
   DEP_FILE = CMakeFiles\operations.dir\src\mul.cpp.obj.d
-  FLAGS = -std=gnu++17
+  FLAGS = -std=gnu++1z
   INCLUDES = -ID:/C_C++/EmbeddedBuildsystem/inc
   OBJECT_DIR = CMakeFiles\operations.dir
   OBJECT_FILE_DIR = CMakeFiles\operations.dir\src
@@ -73,7 +73,7 @@ build CMakeFiles/operations.dir/src/mul.cpp.obj: CXX_COMPILER__operations_unscan
 
 build CMakeFiles/operations.dir/src/div.cpp.obj: CXX_COMPILER__operations_unscanned_ D$:/C_C++/EmbeddedBuildsystem/src/div.cpp || cmake_object_order_depends_target_operations
   DEP_FILE = CMakeFiles\operations.dir\src\div.cpp.obj.d
-  FLAGS = -std=gnu++17
+  FLAGS = -std=gnu++1z
   INCLUDES = -ID:/C_C++/EmbeddedBuildsystem/inc
   OBJECT_DIR = CMakeFiles\operations.dir
   OBJECT_FILE_DIR = CMakeFiles\operations.dir\src
@@ -107,7 +107,7 @@ build cmake_object_order_depends_target_EMBEDDEDBUILDSYSTEM: phony || cmake_obje
 
 build CMakeFiles/EMBEDDEDBUILDSYSTEM.dir/src/main.cpp.obj: CXX_COMPILER__EMBEDDEDBUILDSYSTEM_unscanned_ D$:/C_C++/EmbeddedBuildsystem/src/main.cpp || cmake_object_order_depends_target_EMBEDDEDBUILDSYSTEM
   DEP_FILE = CMakeFiles\EMBEDDEDBUILDSYSTEM.dir\src\main.cpp.obj.d
-  FLAGS = -std=gnu++17
+  FLAGS = -std=gnu++1z
   INCLUDES = -ID:/C_C++/EmbeddedBuildsystem/inc
   OBJECT_DIR = CMakeFiles\EMBEDDEDBUILDSYSTEM.dir
   OBJECT_FILE_DIR = CMakeFiles\EMBEDDEDBUILDSYSTEM.dir\src
